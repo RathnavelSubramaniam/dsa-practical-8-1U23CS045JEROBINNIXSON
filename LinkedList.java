@@ -56,6 +56,7 @@ int data,data1;
               System.out.println("Enter integers only");
               System.exit(0);
             }
+            System.out.println("Element Inserted");
             System.out.println("LINKED LIST AFTER INSERTING");
             list.displayList();
           }
