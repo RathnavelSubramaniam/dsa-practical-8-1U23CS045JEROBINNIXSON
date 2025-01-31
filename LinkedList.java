@@ -72,7 +72,7 @@ public void insertEnd(int data) {
         tail.next = newNode;
         tail = newNode;
     } 
-    System.out.println("Element Inserted"); 
+    System.out.println("ELEMENT INSERTED"); 
 }
 
    
